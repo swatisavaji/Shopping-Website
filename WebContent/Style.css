@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+@charset "ISO-8859-1";
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+}
+
+nav{
+    float: left;
+    width: 30%;
+    height: 500px; /* only for demonstration, should be removed */
+    background: #ccc;
+}
+
+article {
+    float: right;
+    width: 70%;
+    background-color: #f1f1f1;
+    height:500px;
+    
+}
+
+p
+{
+	margin-top:150px;
+
+}
+div
+{
+	margin-top:150px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
